@@ -1,0 +1,21 @@
+NET "clock" LOC = "B8";
+//botoes
+NET "btn_start" LOC = "C11";
+NET "btn_reset" LOC = "G12";
+//chaves
+NET "entrada(0)" LOC = "P11";
+NET "entrada(1)" LOC = "L3";
+NET "entrada(2)" LOC = "K3";
+NET "entrada(3)" LOC = "B4";
+NET "entrada(4)" LOC = "G3";
+NET "entrada(5)" LOC = "F3";
+NET "entrada(6)" LOC = "E2";
+NET "entrada(7)" LOC = "N3";
+//display
+NET "saida(0)" LOC = "L14";
+NET "saida(1)" LOC = "H12";
+NET "saida(2)" LOC = "N14";
+NET "saida(3)" LOC = "N11";
+NET "saida(4)" LOC = "P12";
+NET "saida(5)" LOC = "L13";
+NET "saida(6)" LOC = "M12";
